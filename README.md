@@ -1,4 +1,5 @@
 # latihan-kolaborasi
 
-pertama saya belajar tentang commit
-kedua saya belajar tentang branch 
+-pertama saya belajar tentang commit
+-kedua saya belajar tentang branch 
+-ketiga saya belajar tentang squash
